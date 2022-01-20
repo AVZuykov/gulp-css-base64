@@ -1,14 +1,14 @@
 {
-  "name": "gulp-css-base64",
+  "name": "@avzuykov/gulp-css-base64",
   "description": "Gulp's task for transform all resources found in a CSS into base64-encoded data URI strings",
-  "version": "2.0.0",
-  "homepage": "http://github.com/zckrs/gulp-css-base64",
-  "repository": "zckrs/gulp-css-base64.git",
+  "version": "2.0.1",
+  "homepage": "https://github.com/AVZuykov/gulp-css-base64",
+  "repository": "avzuykov/gulp-css-base64.git",
   "bugs": {
-    "url": "http://github.com/zckrs/gulp-css-base64/issues",
-    "email": "mehdy.dara.fr@gmail.com"
+    "url": "http://github.com/avzuykov/gulp-css-base64/issues",
+    "email": "web.zuykov@gmail.com"
   },
-  "author": "Mehdy Dara <mehdy.dara.fr@gmail.com> (https://github.com/zckrs)",
+  "author": "Alexander Zuykov <web.zuykov@gmail.com> (https://github.com/avzuykov)",
   "contributors": [
     "Mehdy Dara <mehdy.dara.fr@gmail.com> (https://github.com/zckrs)",
     "Callum Jefferies <callum.jefferies@gmail.com> (http://callumj.uk/)",
