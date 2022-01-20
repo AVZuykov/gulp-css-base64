@@ -1,5 +1,5 @@
 {
-  "name": "@avzuykov/gulp-css-base64",
+  "name": "@banner-builder/gulp-css-base64",
   "description": "Gulp's task for transform all resources found in a CSS into base64-encoded data URI strings",
   "version": "2.0.1",
   "homepage": "https://github.com/AVZuykov/gulp-css-base64",
