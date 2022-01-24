@@ -53,15 +53,15 @@ Default value: `[]`
 
 ## Ignore a specific resource
 
-You can ignore a resource with a comment `/*base64:skip*/` in CSS file after url definition.
+You can ignore a resource with a comment `/*rootFile*/` in CSS file after url definition.
 ```css
 .ignored{
-  background: url(image.png); /*base64:skip*/
+  background: url(image.png); /*rootFile*/
 }
 
 .ignored{
   background: url(image.png);
-  /*base64:skip*/
+  /*rootFile*/
 }
 
 .encoded{

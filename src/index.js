@@ -17,7 +17,7 @@ var buffers = require('buffers');
 var async = require('async');
 var chalk = require('chalk');
 
-var rImages = /url(?:\(['|"]?)(.*?)(?:['|"]?\))(?!(.*\s.*\/\*base64:skip\*\/)|(.*\/\*base64:skip\*\/))/ig;
+var rImages = /url(?:\(['|"]?)(.*?)(?:['|"]?\))(?!(.*\s?.*\/\*rootFile\*\/))/ig;
 
 function gulpCssBase64(opts) {
   opts = JSON.parse(JSON.stringify(opts || {}));
