@@ -1,5 +1,9 @@
 # @avzuykov/gulp-css-base64
 
+## Source
+
+[gulp-css-base64](https://github.com/zckrs/gulp-css-base64)
+
 ## Install
 
 Install this plugin with the command:
@@ -70,4 +74,4 @@ You can ignore a resource with a comment `/*rootFile*/` in CSS file after url de
 ```
 
 ## License
-Copyright (c) 2022 [Mehdy Dara](https://github.com/zckrs) under the MIT License.
+Copyright (c) 2022 [AVZuykov](https://github.com/AVZuykov) under the MIT License.
